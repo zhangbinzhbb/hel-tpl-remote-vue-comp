@@ -8,7 +8,7 @@ const pkg = require('./package.json');
 // const subApp = helDevUtils.createVue2SubApp(pkg, { npmCdnType: 'unpkg', homePage: 'http://my-unpkg:8888' });
 
 // deploy to git
-const subApp = helDevUtils.createVue2SubApp(pkg, { homePage: 'https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1' });
+const subApp = helDevUtils.createVue2SubApp(pkg, { homePage: 'https://zhangbinzhbb.github.io/hel-tpl-remote-vue-comp' });
 
 // console.log("subApp===>",subApp)
 // [ 
