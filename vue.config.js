@@ -2,7 +2,7 @@ const webpack = require('webpack');
 const helDevUtils = require('hel-dev-utils');
 const subApp = require('./subApp');
 // const webpack = require('webpack');
-
+console.log("helDevUtils.cst.HEL_DIST_DIR===>",helDevUtils.cst.HEL_DIST_DIR)
 module.exports = {
   // 此处传入的url值仅为了方便另一个项目可以基于当前模块的wed-dev-server调试当前模块代码，端口号对齐 npm run start 里的 PORT
   // 它不会影响流水线的 publicUrl 值，因为 hel-dev-utils 内部发现设置有 process.env.HEL_APP_HOME_PAGE 时或 设置了 npmCdnType 时，
