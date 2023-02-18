@@ -12,32 +12,32 @@
     "sub_app_name": "hel-tpl-remote-vue-comps",
     "sub_app_version": "1.1.3",
     "src_map": {
-      "webDirPath": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0",
-      "htmlIndexSrc": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/index.html",
+      "webDirPath": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1",
+      "htmlIndexSrc": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/index.html",
       "iframeSrc": "",
       "chunkCssSrcList": [
-        "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/css/chunk-4926f535.c4df890f.css"
+        "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/css/chunk-4926f535.c4df890f.css"
       ],
       "privCssSrcList": [],
       "headAssetList": [
         {
           "tag": "link",
           "attrs": {
-            "href": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/css/chunk-4926f535.c4df890f.css",
+            "href": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/css/chunk-4926f535.c4df890f.css",
             "rel": "prefetch"
           }
         },
         {
           "tag": "link",
           "attrs": {
-            "href": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/js/chunk-4926f535.66ba0509.js",
+            "href": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/js/chunk-4926f535.9f298e1a.js",
             "rel": "prefetch"
           }
         },
         {
           "tag": "link",
           "attrs": {
-            "href": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/js/app~e2e93592.efc7f93f.js",
+            "href": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/js/app~e2e93592.efad1fe8.js",
             "rel": "preload"
           }
         }
@@ -46,11 +46,11 @@
         {
           "tag": "script",
           "attrs": {
-            "src": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/js/app~e2e93592.efc7f93f.js"
+            "src": "https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/js/app~e2e93592.efad1fe8.js"
           }
         }
       ]
     },
-    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-runtime/level1/v1-2.6.14-vue.js\"></script><link href=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/js/chunk-4926f535.66ba0509.js\" rel=\"prefetch\"><link href=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/js/app~e2e93592.efc7f93f.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/v1.0.0/js/app~e2e93592.efc7f93f.js\"></script></body></html>"
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-runtime/level1/v1-2.6.14-vue.js\"></script><link href=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/css/chunk-4926f535.c4df890f.css\" rel=\"prefetch\"><link href=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/js/chunk-4926f535.9f298e1a.js\" rel=\"prefetch\"><link href=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/js/app~e2e93592.efad1fe8.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but hel-tpl-remote-vue-comps doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://github.com/zhangbinzhbb/hel-tpl-remote-vue-comp/as_v1/js/app~e2e93592.efad1fe8.js\"></script></body></html>"
   }
 }
